@@ -23,6 +23,9 @@ assignees: ''
 - **Registration:** [A link for registration or "no registration required"]
 - **Host(s):** [Who this event is hosted by]
 
+## Related Project(s)
+[Name of Project](URL to Issue in CORE-Projects Repo)
+
 ## Miscellaneous
 [Any additional information such as funders, partners, recommended accommodation, etc.]
 
